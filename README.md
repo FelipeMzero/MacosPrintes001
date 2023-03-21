@@ -40,4 +40,4 @@
 </div><br/>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WilkPrintes/count.svg" /></p>
 
- ![Snake animation](https://github.com/MacosPrintes001/MacosPrintes001/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/MacosPrintes001/MacosPrintes001/blob/output/github-contribution-grid-snake2.svg)
