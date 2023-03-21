@@ -38,6 +38,6 @@
     <img aling="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
     
 </div><br/>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/WilkPrintes/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/MacosPrintes/count.svg" /></p>
 
 ![Snake animation](https://github.com/MacosPrintes001/MacosPrintes001/blob/output/github-contribution-grid-snake.svg)
