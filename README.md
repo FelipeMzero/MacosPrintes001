@@ -7,6 +7,8 @@
   <h1> 📘Aluno Na UFOPA💻</h1>
   <row>
     <img background="white" height="200em" src="https://github.com/MacosPrintes001/MacosPrintes001/blob/main/278524749_3109448079273517_6018796999008091743_n.png"/>
+    <img background="white" height="200em"src="https://github.com/MacosPrintes001/MacosPrintes001/blob/main/278524749_3109448079273517_6018796999008091743_n.png"/>
+
   </row>
   <br/>
 </div>
