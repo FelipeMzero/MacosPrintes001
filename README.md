@@ -5,12 +5,9 @@
 
 <div align="center">
   <h1> 📘Aluno Na UFOPA💻</h1>
-  <row>
-    <img background="white" height="200em" src="https://github.com/MacosPrintes001/MacosPrintes001/blob/main/278524749_3109448079273517_6018796999008091743_n.png"/>
-    <img background="white" height="200em"src="https://github.com/MacosPrintes001/MacosPrintes001/blob/main/278524749_3109448079273517_6018796999008091743_n.png"/>
+    <img aling="center" height="150" alt="UFOPACORI"src="https://github.com/MacosPrintes001/MacosPrintes001/blob/main/278524749_3109448079273517_6018796999008091743_n.png"/>
+    <img aling="top" height="150" alt="BSIUFOPA"src="https://github.com/MacosPrintes001/MacosPrintes001/blob/main/logo%20curso.png"/>
 
-  </row>
-  <br/>
 </div>
 
 <div align="center">
